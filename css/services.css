@@ -28,8 +28,8 @@ hr.featurette-divider-2 {
 }
 
 hr.featurette-divider-3 {
-  margin-top: 50px;
-  margin-bottom: 0px;
+  margin-top: 0px;
+  padding-bottom: 0px;
 }
 
 .services-link {

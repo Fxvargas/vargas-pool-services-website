@@ -21,6 +21,10 @@ body header .navbar .container-fluid .collapse p {
   filter: brightness(50%);
 }
 
+.col-lg-4 h2 {
+  padding-top: 25px;
+}
+
 /*
 
 a.nav-link:hover {
